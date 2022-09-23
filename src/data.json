@@ -1,0 +1,63 @@
+{
+  "orgname": "New Restaurant 3/88, Mount Road, Ramapuram, Chennai-600089 PH NO:8870458300. Gst No: 1234XB45VB24MF3",
+  "orgnametwo": "New Restaurant 3/88, Mount Road, Ramapuram, Chennai-600089 ",
+  "phoneno": "8870458300",
+  "SACCode": "0",
+  "billno": "64",
+  "billnotwo": "TAD/IN/3409/2223",
+  "billDate": "02/09/2022 06:53:47 PM",
+  "printTime": "02 Sep 2022 06:53 PM",
+  "cashier": "GIREESH54585",
+  "orderNo": "4309814741",
+  "orderNoNew": "26",
+  "orderInstruction": "Don't send cutlery, tissues and straws",
+  "data": "26/06/22",
+  "billTime": "26/06/22 3:3",
+  "items": [
+    {
+      "name": "Mutton Special Biryani",
+      "quantity": "1",
+      "Price": "330.00"
+    },
+    {
+      "name": "Spl veg.Biryani",
+      "quantity": "1",
+      "Price": "250.00"
+    },
+    {
+      "name": "Chilly Panner /65",
+      "quantity": "1",
+      "Price": "255.00"
+    }
+  ],
+  "itemsTwo": [
+    {
+      "name": "Mutton Special Biryani",
+      "quantity": "1",
+      "Price": "330.00",
+      "baseAmt": "109.00"
+    },
+    {
+      "name": "Spl veg.Biryani",
+      "quantity": "1",
+      "Price": "250.00",
+      "baseAmt": "100.00"
+    },
+    {
+      "name": "Chilly Panner /65",
+      "quantity": "1",
+      "Price": "255.00",
+      "baseAmt": "90.00"
+    }
+  ],
+  "discountOne": "Rs. 120.00",
+  "discountTwo": "Rs. 91.00",
+  "discountThree": "Rs. 0.00",
+  "gross": "Rs. 898:00",
+  "SGSTPercentage": "2.5%",
+  "CGSTPercentage": "2.5%",
+  "SGSTValue": "20.88",
+  "CGSTValue": "20.88",
+  "grandTotal": " Rs. 687.00",
+  "grandTotalOne": "Rs. 940.00"
+}
